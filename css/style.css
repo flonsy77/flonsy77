@@ -62,6 +62,10 @@ body {
   line-height: 90%;
 }
 
+.fname {
+  font-family: RobotSlab;
+}
+
 .card .info2-container {
   position: absolute;
   text-align: right;
