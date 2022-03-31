@@ -1,17 +1,17 @@
 @font-face {
   font-family: RobotoSlab;
-  src: url("/assets/fonts/RobotoSlab-Regular.ttf");
+  src: url("assets/fonts/RobotoSlab-Regular.ttf");
 }
 
 @font-face {
   font-family: BloggerSans;
-  src: url("/assets/fonts/BloggerSans.ttf");
+  src: url("assets/fonts/BloggerSans.ttf");
 }
 
 @font-face {
   font-family: BloggerSans;
   font-weight: bold;
-  src: url("/assets/fonts/BloggerSans-Bold.ttf");
+  src: url("assets/fonts/BloggerSans-Bold.ttf");
 }
 
 * {
