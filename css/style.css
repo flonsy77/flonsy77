@@ -87,6 +87,10 @@ body {
   border-radius: 12px;
 }
 
+.hintergrundbild {
+  position: absolute;
+  }
+
 .footer {
   position: absolute;
   align-content: space-between;
